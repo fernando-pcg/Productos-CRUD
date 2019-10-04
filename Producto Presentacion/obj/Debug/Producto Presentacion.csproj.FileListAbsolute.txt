@@ -1,0 +1,13 @@
+C:\Users\Fernando Figuereo\source\repos\Producto Presentacion\Producto Presentacion\bin\Debug\Producto Presentacion.exe.config
+C:\Users\Fernando Figuereo\source\repos\Producto Presentacion\Producto Presentacion\bin\Debug\Producto Presentacion.exe
+C:\Users\Fernando Figuereo\source\repos\Producto Presentacion\Producto Presentacion\bin\Debug\Producto Presentacion.pdb
+C:\Users\Fernando Figuereo\source\repos\Producto Presentacion\Producto Presentacion\obj\Debug\Producto_Presentacion.Form1.resources
+C:\Users\Fernando Figuereo\source\repos\Producto Presentacion\Producto Presentacion\obj\Debug\Producto_Presentacion.Properties.Resources.resources
+C:\Users\Fernando Figuereo\source\repos\Producto Presentacion\Producto Presentacion\obj\Debug\Producto Presentacion.csproj.GenerateResource.cache
+C:\Users\Fernando Figuereo\source\repos\Producto Presentacion\Producto Presentacion\obj\Debug\Producto Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Fernando Figuereo\source\repos\Producto Presentacion\Producto Presentacion\obj\Debug\Producto Presentacion.exe
+C:\Users\Fernando Figuereo\source\repos\Producto Presentacion\Producto Presentacion\obj\Debug\Producto Presentacion.pdb
+C:\Users\Fernando Figuereo\source\repos\Producto Presentacion\Producto Presentacion\bin\Debug\Producto Logica.dll
+C:\Users\Fernando Figuereo\source\repos\Producto Presentacion\Producto Presentacion\bin\Debug\Producto Logica.pdb
+C:\Users\Fernando Figuereo\source\repos\Producto Presentacion\Producto Presentacion\obj\Debug\Producto Presentacion.csprojAssemblyReference.cache
+C:\Users\Fernando Figuereo\source\repos\Producto Presentacion\Producto Presentacion\obj\Debug\Producto Presentacion.csproj.CopyComplete

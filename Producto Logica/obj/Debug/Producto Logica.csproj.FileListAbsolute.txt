@@ -1,0 +1,5 @@
+C:\Users\Fernando Figuereo\source\repos\Producto Presentacion\Producto Logica\bin\Debug\Producto Logica.dll
+C:\Users\Fernando Figuereo\source\repos\Producto Presentacion\Producto Logica\bin\Debug\Producto Logica.pdb
+C:\Users\Fernando Figuereo\source\repos\Producto Presentacion\Producto Logica\obj\Debug\Producto Logica.csproj.CoreCompileInputs.cache
+C:\Users\Fernando Figuereo\source\repos\Producto Presentacion\Producto Logica\obj\Debug\Producto Logica.dll
+C:\Users\Fernando Figuereo\source\repos\Producto Presentacion\Producto Logica\obj\Debug\Producto Logica.pdb
