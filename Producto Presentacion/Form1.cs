@@ -15,6 +15,7 @@ namespace Producto_Presentacion
     {
         Productos p = new Productos();
         private int m = 0;
+        public int pos;
         public Form1()
         {
             InitializeComponent();
@@ -53,10 +54,10 @@ namespace Producto_Presentacion
                 switch (p.Estado)
                 {
                     case 0:
-                        dataGridView1.Rows[n].Cells[2].Value = "Activo";
+                        dataGridView1.Rows[n].Cells[6].Value = "Activo";
                         break;
                     case 1:
-                        dataGridView1.Rows[n].Cells[2].Value = "Inactivo";
+                        dataGridView1.Rows[n].Cells[6].Value = "Inactivo";
                         break;
                 }
                 dataGridView1.Rows[n].Cells[4].Value = p.FechaCreacion;
@@ -100,8 +101,16 @@ namespace Producto_Presentacion
 
             if (m != -1)
             {
+                pos = dataGridView1.CurrentRow.Index;
 
-                lblInformacion.Text = (string)dataGridView1.Rows[m].Cells[0].Value;
+                txtNombre.Text = dataGridView1[0, pos].Value.ToString();
+                txtDescripcion.Text = dataGridView1[2, pos].Value.ToString();
+                txtExistencia.Text = dataGridView1[1, pos].Value.ToString();
+                dtpV.Text = dataGridView1[3, pos].Value.ToString();
+                dtpC.Text = dataGridView1[4, pos].Value.ToString();
+                txtMarca.Text = dataGridView1[5, pos].Value.ToString();
+                txtCategoria.Text = dataGridView1[7, pos].Value.ToString();
+
             }
         }
 
@@ -139,10 +148,10 @@ namespace Producto_Presentacion
                         switch (p.Estado)
                         {
                             case 0:
-                                dataGridView1.Rows[n].Cells[2].Value = "Activo";
+                                dataGridView1.Rows[n].Cells[6].Value = "Activo";
                                 break;
                             case 1:
-                                dataGridView1.Rows[n].Cells[2].Value = "Inactivo";
+                                dataGridView1.Rows[n].Cells[6].Value = "Inactivo";
                                 break;
                         }
                         dataGridView1.Rows[n].Cells[4].Value = p.FechaCreacion;
